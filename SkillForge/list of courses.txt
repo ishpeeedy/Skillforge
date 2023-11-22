@@ -1,0 +1,31 @@
+				YEAR-1
+Engineering Physics
+Engineering Drawing
+Engineering Chemistry
+Engineering Mathematics-1
+Engineering Mathematics-2
+Basic Civil Engineering
+Basic Computer Engineering
+Basic Mechanical Engineering
+Basic Electrical Engineering
+English for Communication
+				YEAR-2
+Engineering Mathematics-3
+OOPS
+EEES
+DSA
+ADA
+Discrete Mathematics
+Digital Systems
+COA
+OS
+				YEAR-3
+Theory of Computation
+DBMS
+Linux 
+Cybersecurity
+Data Analysis
+IOT 
+Networking
+Advanced Computer Architecture
+PRINCIPLES-OF-PROGRAMMING-LANGUAGES
