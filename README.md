@@ -23,7 +23,15 @@
 - **Responsive Layout** — mobile-friendly structure using reusable CSS sections
 - **Resource-Driven Design** — local image assets and PDF-based learning content integration
 
----
+## Screenshots
+
+![Homepage](screenshots/1.png)
+![Courses](screenshots/2.png)
+![About](screenshots/3.png)
+
+|                                      |                                    |
+| ------------------------------------ | ---------------------------------- |
+| ![Create Account](screenshots/4.png) | ![Book Preview](screenshots/5.png) |
 
 ## Getting Started
 
@@ -46,8 +54,6 @@ start index.html
 
 Or use VS Code Live Server for a better development experience.
 
----
-
 ## Deployment
 
 The project is deployed on GitHub Pages:
@@ -56,5 +62,3 @@ The project is deployed on GitHub Pages:
 - **Publishing source:** `main` branch
 
 If the homepage shows 404, ensure `index.html` exists at the repository root.
-
----
