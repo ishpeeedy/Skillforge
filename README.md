@@ -8,11 +8,11 @@
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23000000.svg?style=for-the-badge&logo=fontawesome&logoColor=a985ff)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-%23000000.svg?style=for-the-badge&logo=googlefonts&logoColor=a985ff)
 
-<center>
-
-[![Live](https://img.shields.io/badge/Live_Deployment-%23ffffff.svg?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://ishpeeedy.github.io/Skillforge/)
-
-</center>
+<div align="center">
+  <a href="https://ishpeeedy.github.io/Skillforge/">
+    <img src="https://res.cloudinary.com/dzwjyg2ai/image/upload/v1773208386/IMP_Resources/github_assets/SkillForge_loader_rebngw.svg" width="400" />
+  </a>
+</div>
 
 ## Features
 
