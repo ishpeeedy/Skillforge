@@ -9,7 +9,7 @@
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-%23000000.svg?style=for-the-badge&logo=googlefonts&logoColor=a985ff)
 
 <div align="center">
-  <a href="https://ishpeeedy.github.io/Skillforge/">
+  <a href="https://skillforge.ishpeeedy.dev/">
     <img src="https://res.cloudinary.com/dzwjyg2ai/image/upload/v1773208386/IMP_Resources/github_assets/SkillForge_loader_rebngw.svg" width="400" />
   </a>
 </div>
